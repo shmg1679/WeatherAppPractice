@@ -5,4 +5,4 @@ go into the weather app directory and enter
   ```
 
 
-![app](https://github.com/shmg1679/WeatherAppPractice/assets/91004979/70ec9587-81c8-4a96-8628-12c3aa28aaf6)
+![app](https://github.com/shmg1679/WeatherAppPractice/assets/91004979/aeba7a20-fc53-4ef1-8144-6efbfc811aae)

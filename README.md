@@ -1,4 +1,6 @@
 # WeatherAppPractice
+create own .env file in tbe root of weather-app and store your own open weatehr API key there.
+
 go into the weather app directory and enter
   ```sh
   npm start

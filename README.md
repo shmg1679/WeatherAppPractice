@@ -4,4 +4,5 @@ go into the weather app directory and enter
   npm start
   ```
 
-![app](https://github.com/shmg1679/WeatherAppPractice/assets/91004979/211653b2-222e-4522-945e-a81771b75fc5)
+
+![app](https://github.com/shmg1679/WeatherAppPractice/assets/91004979/70ec9587-81c8-4a96-8628-12c3aa28aaf6)

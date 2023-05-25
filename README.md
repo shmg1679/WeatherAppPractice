@@ -1,5 +1,5 @@
 # WeatherAppPractice
-go into the weather app directy and enter
+go into the weather app directory and enter
   ```sh
   npm start
   ```
